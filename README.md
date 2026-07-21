@@ -33,5 +33,5 @@ If for some obscure reason you actually want to run this locally:
    `cd projectihadtodo`
 3. Install 5 gigabites of dependencies i put there for no reason:
    `npm install`
-4. Run the dev server ( it's not mine since i vibecoded an entire app :) :
+4. Run the dev server (i use arch  btw) :
    `npm run dev`
